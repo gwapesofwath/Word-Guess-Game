@@ -1,5 +1,8 @@
 body {
-    background-color: black;
+    background-color: white;
+    font-family: 'Shadows Into Light', cursive; 
+    text-shadow: 4px 4px 4px #aaa;
+    font-size: 50px;
 }
 
 .center {
