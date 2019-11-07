@@ -8,7 +8,7 @@ body {
 .centered {
     display: block;
     margin-left: 35%;
-    margin-right: auto;
+    margin-right: 35%;
     width: 100%;
 }
 
