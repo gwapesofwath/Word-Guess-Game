@@ -30,8 +30,7 @@ function winOrLose()
     {
         document.getElementById("wins").innerHTML = win;
         function reloadPage(){
-            window.location.reload();
-        
+        window.location.reload();
         }
     }
     else if(guessesLeft === 0)
@@ -84,6 +83,7 @@ document.getElementById("guess").onclick = function() {
 
 
     startGame();
+  
 
 
 
